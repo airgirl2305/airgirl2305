@@ -44,4 +44,4 @@
 <img alt="Webstorm" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fjetbrains-webstorm-logo-vector-svg-pdf-ai-eps-cdr-free-download-11836.html&psig=AOvVaw081v_FpXMaMQxVDb2NiLJp&ust=1652823856793000&source=images&cd=vfe&ved=2ahUKEwj4yZPo_uT3AhVKxCoKHStBDtEQjRx6BAgAEAs" />
 <br />
 <br />
-[[<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Chris Bongers's Dev Card"/></a>](https://api.daily.dev/devcards/cff88e4e973f47198d051b9d84c276bb.png?r=ye5)](https://api.daily.dev/devcards/cff88e4e973f47198d051b9d84c276bb.png?r=ye5)
+<a href="https://app.daily.dev/airgirl"><img src="https://api.daily.dev/devcards/cff88e4e973f47198d051b9d84c276bb.png?r=ye5" width="400" alt="Kheda Askhabova's Dev Card"/></a>
