@@ -45,6 +45,5 @@
 <br />
 <br />
 <a href="https://app.daily.dev/airgirl"><img src="https://api.daily.dev/devcards/cff88e4e973f47198d051b9d84c276bb.png?r=ye5" width="400" alt="Kheda Askhabova's Dev Card"/></a>
-<img src="https://github-readme-stats.vercel.app/api?username={airgirl2305}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Kheda's GitHub stats](https://github-readme-stats.vercel.app/api?username=airgirl2305)](https://github.com/airgirl2305/github-readme-stats)
