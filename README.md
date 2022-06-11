@@ -8,6 +8,10 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<!--
+**airgirl2305/airgirl2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 -->
 ### Connect with me:
 [![website](./img/globe-light.svg)](https://airgirl2305.github.io)
