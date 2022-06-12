@@ -1,12 +1,20 @@
-### Hi there, I'm [Kheda!](https://airgirl2305.github.io) 🖖
-<img alt="me" width="300px" src="https://octodex.github.com/images/femalecodertocat.png" />
-- 🔭 I’m currently working on ...
+
+<p style="text-align: center;"> 
+  <img alt="decorating wave" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi%20there%20;)&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20add me in friends!&descAlignY=51&descAlign=62" />
+</p>
+
+
+### Hi there, I'm [Kheda!](https://airgirl2305.github.io) 🖖 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+<img width="80px" alt="github avatar" src="https://i.pinimg.com/originals/1d/95/35/1d95353d57176d95af1ada04b964f7bb.gif">
+<img style="text-align: center;" alt="me" width="300px" src="https://octodex.github.com/images/femalecodertocat.png" />
+
+* 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...z
 - ⚡ Fun fact: ...
 
 ### Connect with me:
@@ -39,13 +47,13 @@
 <img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-<img alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
-<img alt="Webstorm" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fjetbrains-webstorm-logo-vector-svg-pdf-ai-eps-cdr-free-download-11836.html&psig=AOvVaw081v_FpXMaMQxVDb2NiLJp&ust=1652823856793000&source=images&cd=vfe&ved=2ahUKEwj4yZPo_uT3AhVKxCoKHStBDtEQjRx6BAgAEAs" />
+<img alt="Terminal" width="20px" src="./img/terminal-light.svg" />
+<img alt="Terminal" width="20px" src="./img/terminal-dark.svg" />
+<img alt="IntelliJ IDEA" width="20px" src="./img/IntelliJ-IDEA.png" />
 <br />
-<br />
-<a href="https://app.daily.dev/airgirl"><img src="https://api.daily.dev/devcards/cff88e4e973f47198d051b9d84c276bb.png?r=ye5" width="400" alt="Kheda Askhabova's Dev Card"/></a>
+<a href="https://app.daily.dev/airgirl"><img src="https://api.daily.dev/devcards/cff88e4e973f47198d051b9d84c276bb.png?r=ye5" width="200" style="text-align: right;" alt="Kheda's Dev Card"/></a>
 
+![](https://komarev.com/ghpvc/?username=airgirl2305&color=ff69b4&style=plastic)
 [![Kheda's GitHub stats](https://github-readme-stats.vercel.app/api?username=airgirl2305)](https://github.com/airgirl2305/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airgirl2305&layout=compact)](https://github.com/airgirl2305/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=airgirl2305)](https://github.com/airgirl2305/github-readme-stats)
+[![Kheda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=airgirl2305)](https://github.com/airgirl2305/github-readme-stats)
