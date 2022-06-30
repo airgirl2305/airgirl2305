@@ -3,6 +3,7 @@
   <img alt="decorating wave" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi%20there%20;)&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20add me in friends!&descAlignY=51&descAlign=62" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=airgirl2305)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Hi there, I'm [Kheda!](https://airgirl2305.github.io) 🖖 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 <img width="80px" alt="github avatar" src="https://i.pinimg.com/originals/1d/95/35/1d95353d57176d95af1ada04b964f7bb.gif">
