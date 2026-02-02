@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=SOC+Analyst+in+Progress&fontSize=20&animation=fadeIn&fontAlignY=130&desc=Building+practical+skills+in+threat+detection+and+incident+response&descAlignY=55&descAlign=50" />
+  <img alt="" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Finance%20to%20SOC&textBg=false"/>
 </p>
 
 ## Hi there, I'm Kheda! 🖖🏻
