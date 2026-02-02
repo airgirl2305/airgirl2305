@@ -1,60 +1,45 @@
-
-<p style="text-align: center;"> 
-  <img alt="decorating wave" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi%20there%20;)&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20add me in friends!&descAlignY=51&descAlign=62" />
+<p align="center">
+  <img alt="" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=SOC+Analyst+in+Progress&fontSize=20&animation=fadeIn&fontAlignY=130&desc=Building+practical+skills+in+threat+detection+and+incident+response&descAlignY=55&descAlign=50" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=airgirl2305)](https://github.com/ryo-ma/github-profile-trophy)
+## Hi there, I'm Kheda! 🖖🏻
 
-### Hi there, I'm [Kheda!](https://airgirl2305.github.io) 🖖 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
-<img width="80px" alt="github avatar" src="https://i.pinimg.com/originals/1d/95/35/1d95353d57176d95af1ada04b964f7bb.gif">
-<img style="text-align: center;" alt="me" width="300px" src="https://octodex.github.com/images/femalecodertocat.png" />
+### Aspiring SOC Analyst | DFIR Enthusiast**  
 
-* 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...z
-- ⚡ Fun fact: ...
+CFO transitioning into cybersecurity through intensive hands-on training. Building a foundation in threat detection, log analysis, and incident response. This space is for future DFIR case studies, security tool experiments, and contributions to open-source security projects.
 
-### Connect with me:
-[![website](./img/globe-light.svg)](https://airgirl2305.github.io)
-[![website](./img/globe-dark.svg)](https://airgirl2305.github.io)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/AirGirl2305#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/AirGirl2305#gh-dark-mode-only)
-&nbsp;&nbsp;
+> **Current Focus:** Completing a 270-hour SOC Analyst track, mastering 35+ attack techniques (from web app exploits to Active Directory compromise) through hands-on labs with Wireshark, Splunk, ELK, and modern threat hunting methodologies.
+> *[View my learning profile](https://labs.cyber-ed.ru/profile/e6bkTsXHRN69aUExnzSBLVvb2GqLey)*
+
+### 🛡️ Cybersecurity Tools & Technologies I'm Working With:
+
+**OS & Environments:** `Windows` | `Linux (Kali, Ubuntu)` | `Virtualization` 
+**SIEM & Analytics:** `Splunk` | `Elastic Stack (ELK)` | `Microsoft Sentinel` | `Microsoft 365 Defender`  
+**Network Security Analysis:** `Wireshark` | `Nmap` | `Suricata`  
+**Digital Forensics & Incident Response (DFIR):** `Autopsy` | `FTK Imager` | `Volatility` | `Sysinternals Suite`  
+**Scripting & Automation:** `Python` | `PowerShell` | `Bash` | `JavaScript` |
+**Frameworks & Standards:** `MITRE ATT&CK` | `Cyber Kill Chain` | `NIST CSF`
+
+---
+
+### 📂 Security Projects & Analysis 
+Currently mastering hands-on SOC analysis through intensive training. This space is for future case studies and tools.
+
+A practical, growing collection of security operations resources:
+
+- **[`/security-automation-scripts`](https://github.com/airgirl2305/airgirl2305/tree/main/security-automation-scripts)** – Python, PowerShell, and Bash scripts for log analysis, IOC handling, and SIEM integration.
+- **[`detection-and-analysis`](https://github.com/airgirl2305/airgirl2305/tree/main/incident-playbooks)** – Step-by-step guides for consistent and effective incident response.
+- **[`/threat-research-notes`](https://github.com/airgirl2305/airgirl2305/tree/main/threat-research-notes)** – Analysis of emerging threats, adversary TTPs, and defensive strategies.
+- *More to come as my journey progresses...*
+
+
+--
+
+### 🌐 **Connect With Me**
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kheda-askhabova/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kheda-askhabova/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/k.airgirl/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/k.airgirl/r#gh-dark-mode-only)
+&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-Contact%20Me-critical?style=for-the-badge&logo=gmail)](mailto:kheda.askhabova@gmail.com) 
 
-### Languages and Tools:
+---
 
-<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
-<img alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-<img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />
-<img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img alt="Terminal" width="20px" src="./img/terminal-light.svg" />
-<img alt="Terminal" width="20px" src="./img/terminal-dark.svg" />
-<img alt="IntelliJ IDEA" width="20px" src="./img/IntelliJ-IDEA.png" />
-<br />
-<a href="https://app.daily.dev/airgirl"><img src="https://api.daily.dev/devcards/cff88e4e973f47198d051b9d84c276bb.png?r=ye5" width="200" style="text-align: right;" alt="Kheda's Dev Card"/></a>
-
-![](https://komarev.com/ghpvc/?username=airgirl2305&color=ff69b4&style=plastic)
-[![Kheda's GitHub stats](https://github-readme-stats.vercel.app/api?username=airgirl2305)](https://github.com/airgirl2305/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airgirl2305&layout=compact)](https://github.com/airgirl2305/github-readme-stats)
-[![Kheda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=airgirl2305)](https://github.com/airgirl2305/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=airgirl2305&color=2516b0&style=flat-square)
