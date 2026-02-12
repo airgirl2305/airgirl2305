@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=from%20Finance%20to%20CyberSecurity&textBg=false"/>
+  <img alt="" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=from%20Finance%20to%20CyberSec&textBg=false"/>
 </p>
 
 ## Hi there, I'm Kheda! 🖖🏻
