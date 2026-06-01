@@ -39,5 +39,3 @@ A practical, growing collection of security operations resources:
 &nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-Contact%20Me-critical?style=for-the-badge&logo=gmail)](mailto:kheda.askhabova@gmail.com) 
 
 ---
-
-![](https://komarev.com/ghpvc/?username=airgirl2305&color=2516b0&style=flat-square)
