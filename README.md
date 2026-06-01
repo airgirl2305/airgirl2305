@@ -39,7 +39,7 @@ A practical, growing collection of security operations resources:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kheda-askhabova/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kheda-askhabova/#gh-dark-mode-only)
 &nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-Contact%20Me-critical?style=for-the-badge&logo=gmail)](mailto:kheda.askhabova@gmail.com) 
-
+&nbsp;&nbsp;[![website](./img/telegram-light.png)](@airgirl2305#gh-light-mode-only)
 ---
 
 ![](https://komarev.com/ghpvc/?username=airgirl2305&color=2516b0&style=flat-square)
