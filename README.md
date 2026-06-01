@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Finance%20to%20SOC&textBg=false"/>
+  <img alt="" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=from%20Finance%20to%20CyberSec&textBg=false"/>
 </p>
 
 ## Hi there, I'm Kheda! 🖖🏻
@@ -13,7 +13,7 @@ CFO transitioning into cybersecurity through intensive hands-on training. Buildi
 
 ### 🛡️ Cybersecurity Tools & Technologies I'm Working With:
 
-**OS & Environments:** `Windows` | `Linux (Kali, Ubuntu)` | `Virtualization` 
+**OS & Environments:** `Windows` | `Linux (Kali, Ubuntu)` | `Virtualization`
 **SIEM & Analytics:** `Splunk` | `Elastic Stack (ELK)` | `Microsoft Sentinel` | `Microsoft 365 Defender`  
 **Network Security Analysis:** `Wireshark` | `Nmap` | `Suricata`  
 **Digital Forensics & Incident Response (DFIR):** `Autopsy` | `FTK Imager` | `Volatility` | `Sysinternals Suite`  
@@ -27,11 +27,9 @@ Currently mastering hands-on SOC analysis through intensive training. This space
 
 A practical, growing collection of security operations resources:
 
-- **[`/security-automation-scripts`](https://github.com/airgirl2305/airgirl2305/tree/main/security-automation-scripts)** – Python, PowerShell, and Bash scripts for log analysis, IOC handling, and SIEM integration.
-- **[`detection-and-analysis`](https://github.com/airgirl2305/airgirl2305/tree/main/incident-playbooks)** – Step-by-step guides for consistent and effective incident response.
-- **[`/threat-research-notes`](https://github.com/airgirl2305/airgirl2305/tree/main/threat-research-notes)** – Analysis of emerging threats, adversary TTPs, and defensive strategies.
-- *More to come as my journey progresses...*
-
+- **[`/network-attacks-detection`](https://github.com/airgirl2305/airgirl2305/tree/main/network-attacks-detection)** – 19 techniques: scanning, web attacks (SQLi, XSS, CSRF), wireless attacks, and malicious traffic analysis.
+- **[`/endpoint-attacks-detection`](https://github.com/airgirl2305/airgirl2305/tree/main/endpoint-attacks-detection)** – 11 techniques: Windows/Linux process anomalies, vulnerability exploitation, SAM/LSASS attacks, and persistence mechanisms.
+- **[`/active-directory-attacks-detection`](https://github.com/airgirl2305/airgirl2305/tree/main/active-directory-attacks-detection)** – 10 techniques: AD reconnaissance, Kerberos attacks, Pass-the-Hash/Ticket, DCSync, and certificate service abuse.
 
 --
 
@@ -41,5 +39,3 @@ A practical, growing collection of security operations resources:
 &nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-Contact%20Me-critical?style=for-the-badge&logo=gmail)](mailto:kheda.askhabova@gmail.com) 
 &nbsp;&nbsp;[![website](./img/telegram-light.png)](@airgirl2305#gh-light-mode-only)
 ---
-
-![](https://komarev.com/ghpvc/?username=airgirl2305&color=2516b0&style=flat-square)
