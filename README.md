@@ -13,11 +13,11 @@ CFO transitioning into cybersecurity through intensive hands-on training. Buildi
 
 ### 🛡️ Cybersecurity Tools & Technologies I'm Working With:
 
-**OS & Environments:** `Windows` | `Linux (Kali, Ubuntu)` | `Virtualization`
+**OS & Environments:** `Windows` | `Linux (Kali, Ubuntu)` | `Virtualization`  
 **SIEM & Analytics:** `Splunk` | `Elastic Stack (ELK)` | `Microsoft Sentinel` | `Microsoft 365 Defender`  
 **Network Security Analysis:** `Wireshark` | `Nmap` | `Suricata`  
 **Digital Forensics & Incident Response (DFIR):** `Autopsy` | `FTK Imager` | `Volatility` | `Sysinternals Suite`  
-**Scripting & Automation:** `Python` | `PowerShell` | `Bash` | `JavaScript` |
+**Scripting & Automation:** `Python` | `PowerShell` | `Bash` | `JavaScript`  
 **Frameworks & Standards:** `MITRE ATT&CK` | `Cyber Kill Chain` | `NIST CSF`
 
 ---
