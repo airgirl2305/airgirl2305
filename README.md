@@ -1,10 +1,16 @@
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=from%20Finance%20to%20CyberSec&fontSize=50&fontAlignY=40&desc=SOC%20Analyst%20%7C%20DFIR%20&descAlignY=55&animation=twinkling&stroke=FFFFFF&strokeWidth=1"/>
+</p> -->
+
 <p align="center">
-  <img alt="" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=from%20Finance%20to%20CyberSec&textBg=false"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=800&color=0A66C2&center=true&vCenter=true&width=600&height=60&lines=from+Finance+to+CyberSecurity;Aspiring+SOC+Analyst" alt="Typing SVG" />
+  </a>
 </p>
 
 ## Hi there, I'm Kheda! 🖖🏻
 
-### Aspiring SOC Analyst | DFIR Enthusiast**  
+### Aspiring SOC Analyst | DFIR Enthusiast
 
 CFO transitioning into cybersecurity through intensive hands-on training. Building a foundation in threat detection, log analysis, and incident response. This space is for future DFIR case studies, security tool experiments, and contributions to open-source security projects.
 
