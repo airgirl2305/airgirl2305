@@ -30,16 +30,14 @@ A practical, growing collection of security operations resources:
 - **[`/network-attacks-detection`](https://github.com/airgirl2305/airgirl2305/tree/main/network-attacks-detection)** – 19 techniques: scanning, web attacks (SQLi, XSS, CSRF), wireless attacks, and malicious traffic analysis.
 - **[`/endpoint-attacks-detection`](https://github.com/airgirl2305/airgirl2305/tree/main/endpoint-attacks-detection)** – 11 techniques: Windows/Linux process anomalies, vulnerability exploitation, SAM/LSASS attacks, and persistence mechanisms.
 - **[`/active-directory-attacks-detection`](https://github.com/airgirl2305/airgirl2305/tree/main/active-directory-attacks-detection)** – 10 techniques: AD reconnaissance, Kerberos attacks, Pass-the-Hash/Ticket, DCSync, and certificate service abuse.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kheda-askhabova)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/airgirl2305)  
-[![HeadHunter](https://img.shields.io/badge/HeadHunter-DD2A2A?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hh.ru/resume/your_resume_id)  <!-- замени ссылку на твой резюме -->
-[![Habr](https://img.shields.io/badge/Habr-77A2B5?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/your_username)  <!-- или ссылка на твой блог/карьеру -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kheda.askhabova@gmail.com)
---
+
 
 ### 🌐 **Connect With Me**
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kheda-askhabova/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kheda-askhabova/#gh-dark-mode-only)
-&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-Contact%20Me-critical?style=for-the-badge&logo=gmail)](mailto:kheda.askhabova@gmail.com) 
-&nbsp;&nbsp;[![website](./img/telegram-light.png)](@airgirl2305#gh-light-mode-only)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/airgirl2305)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kheda.askhabova@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kheda-askhabova)
+[![HH](https://img.shields.io/badge/HeadHunter-DD2A2A?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hh.ru/resume/your_resume_id)  <!-- замени ссылку на твой резюме -->
+[![Habr](https://img.shields.io/badge/Habr-77A2B5?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/your_username)  <!-- или ссылка на твой блог/карьеру -->
+
 ---
